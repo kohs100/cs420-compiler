@@ -20,7 +20,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 $ git clone https://github.com/kohs100/cs420-compiler
 $ cd cs420-compiler
 $ git submodule update --init --recursive
-$ cd cs42-peg
+$ cd cs420-peg
 $ cargo run -- test/fibo.c
 $ cargo run -- test/string.c
 $ cargo run -- test/malloc.c
