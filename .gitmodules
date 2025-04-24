@@ -1,0 +1,3 @@
+[submodule "cs420-peg"]
+	path = cs420-peg
+	url = https://github.com/kohs100/cs420-peg.git
